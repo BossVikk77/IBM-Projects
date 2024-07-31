@@ -1,32 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ca731c7-a98d-4d46-8b6a-e0cf1206fc6f" name="Changes" comment="" />
+    <list default="true" id="0ca731c7-a98d-4d46-8b6a-e0cf1206fc6f" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/CVD/CVD_Database_Create_Tables_Script.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/CVD/Film_Locations_in_San_Francisco_20240730.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/CVD/MEDICAL_DEPARTMENTS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/CVD/MEDICAL_HISTORY.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/CVD/MEDICAL_LOCATIONS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/CVD/MEDICAL_PROCEDURES.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/CVD/PATIENTS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/HR/Departments.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/HR/Employees.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/HR/Jobs.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/HR/JobsHistory.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/HR/Locations.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_and_SQL/PETRESCUE/PETRESCUE-CREATE.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/identifier.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final_Assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Final_Assignment.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BossVikk77&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BossVikk77/IBM-Projects.git&quot;,
+    &quot;accountId&quot;: &quot;eadce03e-990b-43b7-b431-413e61f4f715&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2jwfzdsnjYFEorckBn53wGMZaGm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Database Script.PETRESCUE-CREATE.sql.executor": "Run",
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/olayi/Documents/Projects/IBM_Assignments/DB_and_SQL/MEDICAL_HISTORY.csv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\olayi\Documents\Projects\IBM_Assignments\DB_and_SQL\CVD" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PETRESCUE-CREATE.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/DB_and_SQL/PETRESCUE/PETRESCUE-CREATE.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="a1d42416-f8ba-401d-a18e-9153aab5430a" namespace="schema/&quot;petresq&quot;" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,8 +115,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722303323326</updated>
-      <workItem from="1722303329508" duration="1000" />
+      <workItem from="1722303329508" duration="2257000" />
+      <workItem from="1722347815236" duration="16824000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1722303593646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722303593646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
